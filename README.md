@@ -18,7 +18,7 @@ start the server...
 java -jar Swaggergenerator-api-<version>.jar
 ```
 ## How to Generate Swagger?
-- Download the sample excel template from repo
+- Download the sample excel template from repo 
 - Make a post call to
 ```sh
 http://localhost:8080/generateswagger

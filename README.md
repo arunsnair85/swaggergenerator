@@ -1,6 +1,6 @@
 # Swagger Generator
 ## What is Swagger Generator?
- Swagger Generator is a java based tool to generate swagger from a predefined Excel.
+ Swagger Generator is a java based tool to generate swagger from a predefined Excel.                  
  Steps to generate the Swagger file
 
 ## Installation

@@ -7,7 +7,7 @@
 
 Swagger Generator requires [Java 8] (https://www.oracle.com/java/technologies/downloads/) 1.8 or above to run.
 - Check out the maven project from github repo
- - Update file.path properties in the application.properties
+ - Update file.path properties in the application.properties  
 ```sh
 mvn clean install
 ```
